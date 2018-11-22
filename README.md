@@ -19,7 +19,7 @@ In case the marginal is not readily available, one can calculate it as:
 
 ![equation](https://latex.codecogs.com/gif.latex?F_X%28x%29%20%3D%20%5Clim_%7By%20%5Crightarrow%20&plus;%20%5Cinfty%7D%20F_%7BX%2CY%7D%28x%2Cy%29) .
 
-In practive this means calculating the Joint CDF at a very high value of y (in my code I used 1e5).
+In practice this means calculating the Joint CDF at a very high value of y (in my code I used 1e5).
 
 ## Files description
 - generate_sample generates a sample from a univariate distribution given its CDF
