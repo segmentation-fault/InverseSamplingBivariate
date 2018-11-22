@@ -26,3 +26,10 @@ In practive this means calculating the Joint CDF at a very high value of y (in m
 - generate_sample_bivariate generates two samples given the joint CDF, and, optionally, the marginal CDF
 - test_generate_sample tests the generation against some univariate distributions
 - test_bivariate tests the bivariate distribution against a multivariate exponential type II
+
+## Validation
+Here two plots for the bivariate testing:
+
+![Bivariate test](/images/bivariate_provided.png)
+
+![Bivariate test](/images/bivariate_notprovided.png)
